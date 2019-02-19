@@ -20,10 +20,18 @@
 ![](https://upload-images.jianshu.io/upload_images/4685968-aeb58968806473db.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 # 环境
-软件版本-双版本 SpringBoot 1.5.20-->2.1.1 
+软件版本-双版本 SpringBoot 1.5.20
+
 JDK 1.8.0_111 
-IDE Idea 2017.1.2 
-Maven 3.3.9 Redis 3.2.8 
+
+IDE Idea 2019.1 EAP
+
+Maven 3.3.9 
+
+Redis 3.2.8 
+
 Nginx 1.11.7 
+
 开发环境 Mac、Win、Linux均可 
+
 部署环境 centos7.3
